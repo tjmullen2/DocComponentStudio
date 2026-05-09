@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/appicon.png" alt="DocComponentStudio Logo" width="120"/>
+</p>
+
+<h1 align="center">DocComponentStudio</h1>
+<p align="center">Feedback & Support Hub</p>
 # DocComponentStudio — Feedback & Support
 
 Welcome to the official feedback and support hub for **DocComponentStudio**.
