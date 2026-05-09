@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/appicon.png" alt="DocComponentStudio Logo" width="120"/>
+  <img src="assets/AppIcon.png" alt="DocComponentStudio Logo" width="120"/>
 </p>
 
 <h1 align="center">DocComponentStudio</h1>
